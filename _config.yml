@@ -1,3 +1,4 @@
+layout_spectrum: 0.45147255319170654
 typography_spectrum: 0.9930033697746694
 color:
   brandStrength: 0.8459625425748527
@@ -5,12 +6,9 @@ color:
   saturation: 0.43668297468684614
   rhythmicContrast: 0.5376725269015878
   brandColors:
-    - '#000000'
-    - '#5A7AA1'
-    - '#4E444F'
-    - '#AC9FB9'
-    - '#FEFDFE'
-layout_spectrum: 0.45147255319170654
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Joe Kondziella/ Musician
-title: Joe Kondziella
-description: Guitarist/Vocalist/Artist
